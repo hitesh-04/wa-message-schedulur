@@ -1,9 +1,11 @@
 # wa-message-schedulur
-simple whatsapp message schedulor
+Simple whatsapp message schedulor
 
-to run this python program
+Before running this program your whatsapp account should be link with your pc browser
 
-your pc should have:
+To run this python program
+
+Your pc should have:
 
        1.python(latest version) installed:
        
@@ -13,19 +15,19 @@ your pc should have:
                 for windows:
                    "pip install pywhatkit"
                 for linux:
-                  "pip3 install pywhatkit"
-to run in windows:
+                   "pip3 install pywhatkit"
+To run in Windows:
 
     simply run wa-schedulor.py by double click
-to run in linux:
+To run in linux:
 
-    1.right click in the folder in which you have downloaded this file
-    2. and clock on 'open in terminal'
-    3. in terminal write command:
+    1. Right click in the folder in which you have downloaded this file
+    2. And click on 'open in terminal' option
+    3. In terminal write command:
                "python3 ./wa-schedulor.py"
                           or
                "python ./wa-schedulor.py"
                
                
-thank you
+Thank you
 hitesh.
