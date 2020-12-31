@@ -2,14 +2,16 @@
 simple whatsapp message schedulor
 
 to run this python program
+
 your pc should have:
-    1.python(latest version) installed
-        this will found on its official website
-    2.pywhatkit installed
-        this can be installed by command
-            for windows:
+
+1.python(latest version) installed
+     this will found on its official website
+2.pywhatkit installed
+     this can be installed by command
+         for windows:
                   "pip install pywhatkit"
-            for linux:
+          for linux:
                   "pip3 install pywhatkit"
 to run in windows:
     simply run wa-schedulor.py by double click
